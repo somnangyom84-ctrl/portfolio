@@ -100,7 +100,7 @@ export function About() {
                       <span className="u-label text-ink/35">Status</span>
                       <span className="inline-flex items-center gap-2">
                         <span className="h-1.5 w-1.5 bg-lime blink" />
-                        <span className="u-label text-ink">Enrolled · Year 1</span>
+                        <span className="u-label text-ink">Enrolled · Year 3</span>
                       </span>
                     </div>
                   </div>
