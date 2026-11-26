@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import portrait from "@/assets/portrait.jpg";
+import portrait from "@/assets/Portrait.jpg";
 import { HERO_STATS, PROFILE, TICKER } from "@/data/portfolio";
 import { useCountUp, useInView, useReducedMotion, useScrollProgress, useSmoothScrollTo } from "@/lib/hooks";
 import { downloadCV } from "@/lib/cv";
